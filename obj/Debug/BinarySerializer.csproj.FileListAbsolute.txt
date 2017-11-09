@@ -1,0 +1,7 @@
+E:\برامجC#\برامجC#\MyProjects\BinarySerializer\BinarySerializer\bin\Debug\BinarySerializer.exe.config
+E:\برامجC#\برامجC#\MyProjects\BinarySerializer\BinarySerializer\bin\Debug\BinarySerializer.exe
+E:\برامجC#\برامجC#\MyProjects\BinarySerializer\BinarySerializer\bin\Debug\BinarySerializer.pdb
+E:\برامجC#\برامجC#\MyProjects\BinarySerializer\BinarySerializer\obj\Debug\BinarySerializer.csprojResolveAssemblyReference.cache
+E:\برامجC#\برامجC#\MyProjects\BinarySerializer\BinarySerializer\obj\Debug\BinarySerializer.csproj.CoreCompileInputs.cache
+E:\برامجC#\برامجC#\MyProjects\BinarySerializer\BinarySerializer\obj\Debug\BinarySerializer.exe
+E:\برامجC#\برامجC#\MyProjects\BinarySerializer\BinarySerializer\obj\Debug\BinarySerializer.pdb
